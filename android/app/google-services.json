@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977811551855",
+    "project_id": "angular-amp-421409",
+    "storage_bucket": "angular-amp-421409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977811551855:android:74895f8d27440785037f9a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_masterclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLXnSc36_tAQU1oVcxUNV1SHWCeHz9aMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
